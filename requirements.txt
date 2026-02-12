@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+ydata-profiling
+numpy
+matplotlib==3.7.3
+setuptools
